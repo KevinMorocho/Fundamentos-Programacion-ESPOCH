@@ -31,8 +31,6 @@ Proceso ExamenPrincipal
 			Si porcentaje < arreglo3(i) Entonces
 				Escribir "Valor ",arreglo3(i)," del mes", i;
 			FinSi
-			Escribir "--[ ",i," ]--";
-			Escribir" TONELADA:", arreglo3(i)," ";		
 		FinPara
 		
 	
